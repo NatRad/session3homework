@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Session 3 Homework
 
 You can use the [editor on GitHub](https://github.com/NatRad/session3homework/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
